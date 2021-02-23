@@ -1,0 +1,9 @@
+Satellite Imagery Analysis / NDVI:
+
+https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32
+
+Spectator API, real time satellite imagery:
+
+https://api.spectator.earth/?language=Python#spectator-api-docs
+
+
