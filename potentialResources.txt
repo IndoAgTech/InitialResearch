@@ -19,5 +19,7 @@ Satelite image data source:
 Landsat images from https://earthexplorer.usgs.gov/ 
 
 
+Startups to check:
+https://directory.growasia.org/sipindo/
 
 
